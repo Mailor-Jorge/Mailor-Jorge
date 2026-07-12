@@ -57,12 +57,16 @@ I am a Software Engineer focused on building robust, real-time distributed web a
 ## 📊 Git Performance & Contribution
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mailor-Jorge&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats Card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mailor-Jorge&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="./profile-summary-card-output/classic/0-profile-details.svg" alt="Profile Details" width="48%" />
+  <img src="./profile-summary-card-output/classic/1-repos-per-language.svg" alt="Repos per Language" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mailor-Jorge&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="./profile-summary-card-output/classic/3-stats.svg" alt="Stats Details" width="97%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mailor-Jorge&theme=tokyonight" alt="Activity Graph" />
 </p>
 
 ### 🎮 Contribution Skyline
@@ -72,14 +76,6 @@ I am a Software Engineer focused on building robust, real-time distributed web a
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mailor-Jorge/Mailor-Jorge/output/github-contribution-grid-snake.svg" />
     <img alt="Snake animation" src="https://raw.githubusercontent.com/Mailor-Jorge/Mailor-Jorge/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
-
----
-
-## 🏆 Profile Badges & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mailor-Jorge&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies" />
 </p>
 
 <p align="center">
