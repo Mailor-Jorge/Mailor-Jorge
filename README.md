@@ -1,16 +1,29 @@
-## Hi there 👋
+Header
+Typing SVG
 
-<!--
-**Mailor-Jorge/Mailor-Jorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profile Views
 
-Here are some ideas to get you started:
+🚀 About Me
+I am a Software Engineer focused on building robust, real-time distributed web applications and custom system integrations. I specialize in designing highly scalable SaaS platforms, event-driven architectures, and implementing low-latency game modifications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Currently developing Sequito (a high-performance, multi-tenant POS & Delivery SaaS).
+⚙️ Architecting real-time geo-routing solutions (Uber H3, VROOM, OSRM).
+🧩 Deeply interested in performance optimization and event-driven architectures (BullMQ, Redis).
+🇧🇷 Based in Brazil.
+🛠️ Core Tech Stack
+🛠️ Full Engineering Stack (Click to expand)
+TypeScriptReactNext.jsTailwindPostgreSQLRedisDockerSentry
+
+📊 Git Performance & Contribution
+Stats Card	Top Languages
+Streak Stats
+🎮 Contribution Skyline
+Snake animation
+
+🏆 Profile Badges & Trophies
+Trophies
+
+🏙️ View My GitHub Skyline 2026
+
+Footer
+
