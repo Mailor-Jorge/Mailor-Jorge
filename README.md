@@ -56,21 +56,14 @@ I am a Software Engineer focused on building robust, real-time distributed web a
 
 ## 📊 Git Performance & Contribution
 
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Mailor-Jorge&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF&include_all_commits=true&count_private=true" alt="Stats Card" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mailor-Jorge&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=6" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=Mailor-Jorge&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=555555" alt="Streak Stats" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mailor-Jorge&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats Card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mailor-Jorge&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mailor-Jorge&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
 
 ### 🎮 Contribution Skyline
 <p align="center">
@@ -86,7 +79,7 @@ I am a Software Engineer focused on building robust, real-time distributed web a
 ## 🏆 Profile Badges & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mailor-Jorge&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mailor-Jorge&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies" />
 </p>
 
 <p align="center">
