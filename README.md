@@ -83,19 +83,15 @@ Python                      █████████████████�
 
 ---
 
-## 📊 Estatísticas Estáticas & Dinâmicas
+## 📊 Estatísticas & Métricas de Atividade
 
 <p align="center">
-  <img src="./profile-summary-card-output/classic/0-profile-details.svg" alt="Profile Details" width="48%" />
-  <img src="./profile-summary-card-output/classic/1-repos-per-language.svg" alt="Repos per Language" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mailor-Jorge&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mailor-Jorge&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="49%" />
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/classic/3-stats.svg" alt="Stats Details" width="97%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mailor-Jorge&theme=tokyonight" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mailor-Jorge&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" alt="GitHub Streak" width="98%" />
 </p>
 
 ---
@@ -103,19 +99,19 @@ Python                      █████████████████�
 ## 🎨 Engenharia Visual Avançada
 
 ### 🐍 Contribution Snake
-*Atualizado automaticamente a cada 12h via GitHub Actions*
+*Grid dinâmico de contribuições animado*
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mailor-Jorge/Mailor-Jorge/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mailor-Jorge/Mailor-Jorge/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Mailor-Jorge/Mailor-Jorge/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="./github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
 
 ### 📊 Gráfico 3D de Contribuições
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Profile Graph" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Profile Graph" width="98%" />
 </p>
 
 <p align="center">
