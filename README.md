@@ -114,9 +114,6 @@ Python                      █████████████████�
   <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Profile Graph" width="98%" />
 </p>
 
-<p align="center">
-  <a href="https://skyline.github.com/Mailor-Jorge/2026">🏙️ GitHub Skyline 2026</a>
-</p>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" alt="Footer" />
